@@ -1,0 +1,24 @@
+.table-element {
+    display: flex;
+    justify-content: center;
+}
+
+.lists {
+    left: 45% !important;
+    right: auto !important;
+}
+.items {
+    right: -10% !important;
+}
+
+.icon-info:hover {
+    color: green;
+}
+
+.icon-remove:hover {
+    color: crimson;
+}
+
+.icon-edit:hover {
+    color: darkgoldenrod;
+}
